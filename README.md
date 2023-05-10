@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
