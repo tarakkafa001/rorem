@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
