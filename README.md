@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
