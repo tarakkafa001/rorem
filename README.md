@@ -1,1 +1,1 @@
-added badges (#45)
+Add Amazon Sagemaker Docs integrations page (#7293)
