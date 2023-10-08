@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
