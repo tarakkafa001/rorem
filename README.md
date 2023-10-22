@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
