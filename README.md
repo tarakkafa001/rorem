@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Avoid creating -hub dir without processing images (#8334)
