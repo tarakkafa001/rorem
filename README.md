@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
