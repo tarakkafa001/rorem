@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add docstrings to new HUB functions (#7576)
