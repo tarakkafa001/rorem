@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add dota8.yaml and O tests (#7394)
