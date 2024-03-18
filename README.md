@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
