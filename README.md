@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
