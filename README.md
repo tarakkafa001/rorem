@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update Colab notebook for YOLOv8.1 (#8660)
