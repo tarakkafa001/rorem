@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Add Neural Magic Docs integrations page (#7234)
