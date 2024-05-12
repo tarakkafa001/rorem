@@ -1,1 +1,1 @@
-add logs
+Batch inference fixes (#8854)
