@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
