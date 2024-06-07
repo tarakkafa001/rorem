@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
