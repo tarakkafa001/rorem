@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Docs updates and improvements (#8183)
