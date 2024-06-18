@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add quantization support to TensorFlow.js converter (#7008)
