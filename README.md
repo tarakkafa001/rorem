@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add PaddlePaddle Docs Integrations Page (#8858)
