@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Compare plt.get_backend() in lowercase (#8409)
