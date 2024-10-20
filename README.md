@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
