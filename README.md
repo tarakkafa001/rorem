@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
