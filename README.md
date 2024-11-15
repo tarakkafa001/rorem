@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix OBB xywh-angle concatenation bug (#7404)
