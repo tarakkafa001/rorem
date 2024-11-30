@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
