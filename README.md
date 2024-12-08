@@ -1,1 +1,1 @@
-fix resume training
+Mkdocs updates (#8008)
